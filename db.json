@@ -14,15 +14,15 @@
   
   "users": [
     {
-    "email": "name1@gmail.com",
+    "userName": "name1",
     "password": "password1"
     },
     {
-    "email": "name2@gmail.com",
+    "userName": "name2",
     "password": "password2"
     },
     {
-    "email": "name3@gmail.com",
+    "userName": "name3",
     "password": "password3"
     }
   ],
